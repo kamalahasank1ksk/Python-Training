@@ -34,5 +34,4 @@ for reading in sensor_data_stream():
     
     heart_rate_text.text(f"heart_rate : {hr} bpm") 
     temperature_text.text(f"temperature:  {temp} F")
-    oxygen_text.text(f"oxygen_level: {ox}%")
-
+    oxygen_text.text(f"oxygen_level: {ox}%")
